@@ -1,0 +1,20 @@
+{
+  "name": "@gman/gpackage",
+  "version": "1.0.1",
+  "description": "part of howtonpm tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greg-han/howtonpm.git"
+  },
+  "author": "gman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/greg-han/howtonpm/issues"
+  },
+  "homepage": "https://github.com/greg-han/howtonpm#readme",
+  "dependencies": {}
+}
